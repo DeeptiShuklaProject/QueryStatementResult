@@ -19,6 +19,7 @@ Including another URLconf
 from django.urls import path, include
 from rest_framework.routers import DefaultRouter
 from myapp.views import ProblemStatementViewSet, TagViewSet
+from myapp.views import export_csv
 
 # Define the router
 router = DefaultRouter()
@@ -27,6 +28,12 @@ router.register(r'tags', TagViewSet)
 
 urlpatterns = [
     path('', include(router.urls)),
+    path('export-csv/', export_csv, name='export_csv'),
 ]
+
+
+
+
+
 
 
