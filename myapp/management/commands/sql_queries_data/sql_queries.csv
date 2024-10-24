@@ -1,502 +1,901 @@
-Statement,Query,Level,Tag Names
-Fetch all employees,SELECT * FROM Employee,easy,SELECT
-Audience ground claim my him yet safe foot.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Take chance color relationship agree senior more.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Management seem officer political perform present physical.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Professional end event consumer enjoy model.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Office partner ready reality stage each amount.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Student traditional no himself law bed.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Purpose expert else industry material score.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Window PM city view bit surface rule.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Republican Republican rate fill yard community.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Total face page police second bed fear.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Serve sometimes likely yard customer mention seek.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Last color water why hotel begin these.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Push most truth them work large without.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-View music house do spend hard identify.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Property Republican two upon.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Up yes bed mission opportunity career worry.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Within our sure.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Who change physical society.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Approach sense share on person.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Candidate answer major positive raise benefit grow.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Whole school view usually production whatever deal child.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Wonder simply send cause especially federal thank.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Sport film power ball why example.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Use hotel build term machine television.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Quite suddenly together especially into time dog.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Low draw song leave.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Possible because player author officer technology window.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Quickly avoid discussion left gun minute operation law.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Music chair put capital news.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Reality focus major its occur vote product practice.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-End response environmental.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Item today respond sea case night.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Only someone idea color.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Total girl main produce gas huge any significant.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Book cover worry positive.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Account crime already rate Congress.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Institution career figure place imagine property.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Able get give race effort happen.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Now guy fall those.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Reveal tell wide left worry fast important.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Use trade last technology prove student address action.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Rest hope place determine.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Central boy pick rock series direction none.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Next deal stock until identify send.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Hot use including challenge defense weight huge.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Each indeed air weight southern.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Five director rest surface minute.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Forget sense chance decide once.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Future guy fall author traditional computer.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Read side even know both position wait modern.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Parent small any outside choice.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Result owner popular name enjoy nearly.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Pass box wall entire imagine we.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Source occur policy marriage.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Step return prove exist onto paper year.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Apply continue TV keep across everyone fire ten.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Other step how decade buy entire home sit.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Account writer decade question.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Anything authority stock couple yet notice.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Defense choice rise sport like for little.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Decade situation still cultural four.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Two system sing film spring everybody ok.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Represent system assume resource region office agency.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Themselves use news.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Two star he radio.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Nice since suddenly low.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Address do protect type court cultural then.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Expert recently among throw include treat.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Idea threat approach day before dog.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Create technology idea organization.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Month third everyone base would image.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Memory discuss some appear realize factor window.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Toward start control always.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Technology really like involve guess fill though.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Event rock apply participant season stop.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Minute against themselves of benefit report.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Benefit suffer market.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Management society message walk term.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Only seat would firm eight very.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Major population woman soldier consumer.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Record investment recently role long also.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Avoid here mind media reality.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Space blue camera someone none sport suffer.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Amount maybe as people cost.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Blood student into future war seven those meet.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Choose look claim finish watch law.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Wear teacher conference.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Natural knowledge base majority heavy.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-All although on rich beyond between.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Purpose Mrs because answer finish example.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Continue tell any gas long.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Specific shake situation two.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Team front husband whatever window.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Democrat capital important arm.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Particularly voice above.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Some receive rule wrong lay agreement school.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Available few rule since.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Cell suffer difference.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Policy hear available pick.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-What such make head interview total.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Drive drive Mrs trouble perhaps growth.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Happen provide wrong majority research treat trip.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Hold there out different perhaps with his.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Room commercial drug heavy strong tree door.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Sometimes up what.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Coach value it majority central.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Compare coach describe.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Itself single exist pull.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Field cell news much none.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Similar season camera throughout society PM school either.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Wait home whom operation mind.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Thing professional car character ok.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Itself worry religious list seek.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Let reveal low seat.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Improve lawyer anyone measure song member.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Science paper option first off strategy.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Enough available right interview place.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Perform necessary floor think.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Until discuss write hard figure.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Past somebody ready relationship call or.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Give skill management old environmental him.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-They economic prevent help miss plant.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Sometimes girl road ready key might special.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Yeah along leave attorney wonder lead something.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Mind walk sell those paper of.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Church ready ten let.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Marriage decision opportunity dream can create.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Break able phone into fish.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-There lot investment ago agency outside.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Movement responsibility we future man.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Either chair goal however marriage.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Industry book TV every shoulder enter.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Effort board seem full other show understand laugh.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Result road call enter young how.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Operation might think apply color.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Option glass type shake.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-International baby place fly never.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Animal stay have however color born pass.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Play standard safe kid prove evidence consumer.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Class story author really sign idea focus.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Week each decade meeting history and term.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Movie much learn.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Even simple after she since never.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Reality course appear production business.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Bit father law final hot he.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Claim so carry ball remain idea.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Way above commercial several.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Might trouble politics owner.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Describe future structure phone bag.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Whose see over dream.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Back believe those maybe culture.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Economy staff leave network its upon report.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Analysis around participant.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Himself daughter project majority yeah current business.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Matter citizen share skin look network hold.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Reality write order simply all.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Politics month admit father cultural.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Dinner theory stop above also.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Couple lawyer hour give approach win.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Prove television close page.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Very nature successful door once.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Three seat quality personal back represent human.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Answer I list.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Development section hot fund quite behind exactly must.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Force wind personal far they special test yes.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-International receive total worry.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Attention play make lead five find back difficult.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Tell student red get school none.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Rock somebody order month point everyone find anything.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Next government coach.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Cut term grow admit it concern.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Imagine young color here know heavy.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Itself social agency toward.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Wait understand development protect from.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Bar team keep billion yeah guy protect.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Up nation under reality capital field begin.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Itself without leader final season role.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Build development almost budget.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Just language watch walk order call.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Cost analysis cause show energy task treat.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Would beautiful finish she exactly.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Key focus election recently least sea team make.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Speak court fine kitchen race attention.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Power discover protect speak health word.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Newspaper blue tonight bad.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Available around answer billion.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Together memory your two.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Low likely allow across keep.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Involve same seat black commercial.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Chair home whom affect animal indeed hotel detail.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Up enough some way drug bar.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Ever protect her fire test.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Somebody challenge where know close cold interesting.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Gas charge because million.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Station from maintain once represent.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Decide here management system finish outside add parent.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Manager however ready can.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Lawyer me charge.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Avoid require enough hundred force.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Course speak tend newspaper item I off.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-White speak trial feel.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Current any go record.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Word wind quite do yes ready father shoulder.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-About theory strategy where so card.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Best score should especially.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Skill shake run hotel plant draw hotel.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Both which seat because.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-True speak drop agent media.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Argue conference goal.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Scientist left try rather continue third.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Argue present available enter professor join.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Door firm poor by impact international.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Doctor detail technology page interesting parent spring.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Left market wonder stop scene traditional type.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Him education word hold benefit.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Discuss spring event.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Data huge daughter still meet operation.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Least it response if woman.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Appear serious feeling wind.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Smile open side five.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Reduce organization respond mention.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-My large thousand work official major above.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-My he while laugh follow.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-People environment sea money compare.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Ability against cover myself plan step system.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Subject forward people challenge hear expect.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Perform explain try knowledge Mr.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Whole dog trial budget couple cover.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Feel detail line degree the set.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Nice according national here.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Cut picture camera entire.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Expert green each keep organization.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Account his night conference general.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Total hour run myself outside.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Campaign already western hope heavy.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Anything majority better away few news this.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Only bit next million ok chance finally.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Build maybe little.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Maybe discover information write.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Method trip analysis character ago.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Administration environmental few then.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Social eye work family game either source.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Kitchen majority instead run single.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Direction environment table.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Player kitchen main culture part.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Job each notice when successful while herself determine.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Character form whole after.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Future home instead new appear start.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Worry performance increase later good table.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Fill keep even kind material plan but.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Keep sure language pass fear thousand our.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Wonder shoulder meeting cost road federal.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Stop choice production.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Staff support professor industry.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Oil sign detail life.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Responsibility such party center.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Design happy describe around try mean girl.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Case hair product begin miss company.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Character magazine citizen him your number.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Process scene nature area pattern hard.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Skin hard drug thing stuff.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Economic leader clear difficult suggest.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Under you newspaper never travel people rate.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Believe though alone enjoy nearly air rest.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Share discuss live red itself.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Century wall land base answer.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-The where back card human person.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Phone finally system campaign their.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Send hard sit rest.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Simply modern go.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Road game already building.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Build back loss day ready natural.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Teach language fund ready.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Involve better effort man open ago high pick.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Federal year treatment line senior believe.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Message case be blue ground great.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Choose PM ago minute couple.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Agreement himself including.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Lay participant energy action pull.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Talk under debate whatever center woman.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Run ask wall night data area bad my.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Run alone best approach turn toward behind.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-People floor despite argue amount road do.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Set activity responsibility fire realize.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Fight seek summer pass security economic age dark.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Customer majority act worry exactly physical experience.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Hand gas black garden.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Above wish research few north here total.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Scene design building hand participant until food.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Increase parent media official color.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Entire represent so require western.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Mother order glass local piece.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Road number computer air example.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Miss trade throw.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Along box drug player television necessary.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Yourself once accept stuff.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Fear protect every task learn kind onto.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-In popular consider maybe catch.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Positive garden he feel leg.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Southern modern actually throw.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Everybody TV surface prevent impact difference.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Commercial window financial set control road recently.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Decision throughout available quite.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Defense activity explain head company.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Particular road add security low expert.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Particular like financial.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Card everything blood receive expect.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Staff growth fall home husband city party.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Serious here not decision sound life at.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Something town successful gas cultural best.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Through onto you little bill available bad.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Born card old college sing seven commercial.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Require model discuss make role.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Eat message nice ago produce.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Season control event some different happen house try.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Animal animal along talk.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Resource like control little people that understand.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Language base worker example allow support their.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Model small community friend surface what.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Minute always real whole life final watch.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Which employee partner public fight.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Easy station deal scientist deal our thing do.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Study industry anything.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Pick treat enjoy resource.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Wait yard age her far account reduce.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Ever house weight name party.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Relate subject trouble.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Forward medical a.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Enter knowledge these scene.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Several positive life wear director.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Art develop short control future.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Either kitchen oil statement house if player.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Idea beautiful outside may small recognize from.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Wide throughout street a Democrat marriage improve professor.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Others rest maintain together fight the interest.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Per walk blood around.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Entire open ever sense development.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Trade huge card six suggest student.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Rate western weight war range.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Story lead black difficult smile up.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Issue coach about away program true.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Growth star color range top Democrat.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Visit southern support performance history begin name.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-During price note key.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Approach nothing trip energy role.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Civil special dark line get.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Ready suddenly be put.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Green modern middle.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Husband painting reason door soldier.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Admit tree level kitchen letter future.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-And big discuss short hand.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Because sport newspaper.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Happy charge country.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Short even machine boy although.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Young everybody music commercial them story.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Particularly tax technology rate order several.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Significant close heart discussion.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Discover information try son author true.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Citizen if issue tell.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Base seven after local PM certainly.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Mission their feel.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Present reason billion her.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Health involve impact carry season.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Explain life young create series whose employee.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Director assume lot deal service.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Health blue collection.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Travel option value now than.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Republican join line agreement court Mr.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-I save into perform.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Back than trial other.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Seven consumer relate into painting half increase social.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Perhaps able rule stage best.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Matter imagine heavy perform.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Fire Mr pretty rule natural remember stage simple.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Key choice career lawyer thus direction degree.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Recently food successful deep.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Life many recent use voice board thousand.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Whole direction sit I democratic.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Pass dinner PM.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Space specific tough property.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Worker say we.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Management reason model carry political nature.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Father baby author new brother minute store.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Relate bag reality his minute organization respond.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Those fact better human eight then as.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Line difference one capital ahead at easy.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Politics machine like see purpose Democrat public.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Join college free.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Occur kitchen actually entire political keep.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-National list poor.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Morning from mind ground.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Blue general role son top of.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Character spring company when.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Increase blue month such.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Million both we investment.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Low expert also effort.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Want interest daughter leave like research.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Whose half military walk soon collection.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Yeah board conference music individual toward.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Region somebody run thought watch.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Sing rise budget senior wide thank.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Raise area question beyond network either serve.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Billion ground course power opportunity local figure.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Pressure central later forward close fall.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Offer bar most point their.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Include agreement subject campaign including Mr fill.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Land fight couple consumer.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Message degree cell agreement hard compare feeling.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Teacher senior bring thought indicate energy edge.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Quickly food fire white.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Law line address everyone every write can step.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Space usually food believe history pressure late.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Spring late environment per list.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Cultural possible hit quite heavy lawyer stop.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Option day manager offer attention large something.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Would specific write.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Experience collection student check specific produce window.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Imagine particularly daughter whether reduce operation administration.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-That word trial significant world first remember.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Human police baby painting.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Letter bank player animal concern note.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Expect staff within present with live.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Sure turn physical consumer list show.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Part listen option region nature.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Model professor him walk.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Deep nice throughout point trial.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-More item base forget church wait way.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Service tree everybody goal expert decision.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Change prepare he billion station.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Deep reason art leg about much garden.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Everything personal far itself.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Degree miss buy coach treat article loss choice.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Industry appear garden cell.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Rule character partner skill without forward.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-According guy anything response education.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Follow back age citizen.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Reason contain federal she line morning perform.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Change pay marriage sound any him.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Sense evening look use ready.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Drug budget general science fish vote.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Institution between fire.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Watch cultural daughter way.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Federal great investment end this treatment choice.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Sort than order plan hot security.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Them maintain agency parent stage particular.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Ground when your need us similar.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Rather never garden line.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Administration color argue plant TV.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Accept a left.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Recent claim knowledge rest.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Page memory month drive degree how school mouth.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Near budget yourself affect hundred.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Court serve itself north sense each.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Southern fish series mission play bit by.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Alone politics so safe cost rise market.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-For son always camera.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-His get between board.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Both country whatever million alone.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Arm magazine dog check.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Second message responsibility keep understand administration.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Event want letter reality loss treat.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Arrive blue military entire court.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Middle want wait sign rather.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Fine game listen thus.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Speak major work usually into mouth to.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Early item water once decade situation.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Down its wife couple all page.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Seat statement listen end probably audience entire.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Language old road loss international response need.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-List expect modern.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Amount say president throughout hit.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Space top claim car site out.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Magazine lose positive guess wind life.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Either give these show theory six.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Full company big information everybody rate within make.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Hair senior couple that gas.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Standard kind training themselves early black sea.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Candidate group campaign poor black deep.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Most put anything music authority exist science.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Interest site summer nothing.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Space standard president price interesting watch life.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-News sport response become record out street interview.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Painting step after garden road between nothing guy.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Phone only write institution its knowledge.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Major Mrs environmental baby issue about wife.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Use tree TV think.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Practice change record hope.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Them management coach fish about them.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Name see always institution spend.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Close peace capital peace summer skill style.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Old skin bring where least keep five.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Before attack however relationship report exactly what play.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Avoid probably education rise rest possible.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Born garden appear generation.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
-Whom room impact.,SELECT * FROM table_name;,easy,"SQL, RDBMS"
-Level fear radio floor.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Spring forward work against form western.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Above law and cultural cut hot we question.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Wish hold after party record scientist us.,SELECT * FROM table_name;,hard,"SQL, RDBMS"
-Investment lot treatment movement art much as.,SELECT * FROM table_name;,medium,"SQL, RDBMS"
+
+Reveal prevent likely big American lay.,"
+            SELECT e.name, e.salary, d.name as department_name
+            FROM employees e
+            JOIN departments d ON e.department_id = d.id
+            WHERE e.salary > (SELECT AVG(salary) FROM employees)
+            ORDER BY e.salary DESC;
+            ",hard,"SQL, RDBMS"
+Adult wonder purpose garden unit thing letter.,SELECT * FROM employees;,easy,"SQL, RDBMS"
+Build yes professor approach play street.,"
+            SELECT e.name, e.salary, d.name as department_name
+            FROM employees e
+            JOIN departments d ON e.department_id = d.id
+            WHERE e.salary > (SELECT AVG(salary) FROM employees)
+            ORDER BY e.salary DESC;
+            ",hard,"SQL, RDBMS"
+Window start physical lay offer.,"SELECT department, COUNT(*) FROM employees GROUP BY department;",medium,"SQL, RDBMS"
+Heavy center game hundred theory within.,"SELECT department, COUNT(*) FROM employees GROUP BY department;",medium,"SQL, RDBMS"
+Talk fast approach positive economy.,"SELECT department, COUNT(*) FROM employees GROUP BY department;",medium,"SQL, RDBMS"
+Key surface top.,"
+            SELECT e.name, e.salary, d.name as department_name
+            FROM employees e
+            JOIN departments d ON e.department_id = d.id
+            WHERE e.salary > (SELECT AVG(salary) FROM employees)
+            ORDER BY e.salary DESC;
+            ",hard,"SQL, RDBMS"
+Want adult join player hold sign.,"
+            SELECT e.name, e.salary, d.name as department_name
+            FROM employees e
+            JOIN departments d ON e.department_id = d.id
+            WHERE e.salary > (SELECT AVG(salary) FROM employees)
+            ORDER BY e.salary DESC;
+            ",hard,"SQL, RDBMS"
+According training former provide.,"SELECT department, COUNT(*) FROM employees GROUP BY department;",medium,"SQL, RDBMS"
+Animal make could up.,"
+            SELECT e.name, e.salary, d.name as department_name
+            FROM employees e
+            JOIN departments d ON e.department_id = d.id
+            WHERE e.salary > (SELECT AVG(salary) FROM employees)
+            ORDER BY e.salary DESC;
+            ",hard,"SQL, RDBMS"
+Rule little leg put explain power crime.,SELECT * FROM employees;,easy,"SQL, RDBMS"
+Clear itself production hair dark.,SELECT * FROM employees;,easy,"SQL, RDBMS"
+Natural door door human information career.,SELECT * FROM employees;,easy,"SQL, RDBMS"
+Thing provide civil property foot read.,"SELECT department, COUNT(*) FROM employees GROUP BY department;",medium,"SQL, RDBMS"
+Meet its available couple indeed hair.,"SELECT department, COUNT(*) FROM employees GROUP BY department;",medium,"SQL, RDBMS"
+Analysis and computer add never ahead.,"
+            SELECT e.name, e.salary, d.name as department_name
+            FROM employees e
+            JOIN departments d ON e.department_id = d.id
+            WHERE e.salary > (SELECT AVG(salary) FROM employees)
+            ORDER BY e.salary DESC;
+            ",hard,"SQL, RDBMS"
+Their kitchen program shoulder.,SELECT * FROM employees;,easy,"SQL, RDBMS"
+How less type per pretty north not.,SELECT * FROM employees;,easy,"SQL, RDBMS"
+Cold prevent age away new on.,"SELECT department, COUNT(*) FROM employees GROUP BY department;",medium,"SQL, RDBMS"
+Woman cost hope peace southern.,"SELECT department, COUNT(*) FROM employees GROUP BY department;",medium,"SQL, RDBMS"
+Role may add more production century base dog.,"
+            SELECT e.name, e.salary, d.name as department_name
+            FROM employees e
+            JOIN departments d ON e.department_id = d.id
+            WHERE e.salary > (SELECT AVG(salary) FROM employees)
+            ORDER BY e.salary DESC;
+            ",hard,"SQL, RDBMS"
+About significant show improve condition rich could.,"
+            SELECT e.name, e.salary, d.name as department_name
+            FROM employees e
+            JOIN departments d ON e.department_id = d.id
+            WHERE e.salary > (SELECT AVG(salary) FROM employees)
+            ORDER BY e.salary DESC;
+            ",hard,"SQL, RDBMS"
+Bar relate huge bit.,"
+            SELECT e.name, e.salary, d.name as department_name
+            FROM employees e
+            JOIN departments d ON e.department_id = d.id
+            WHERE e.salary > (SELECT AVG(salary) FROM employees)
+            ORDER BY e.salary DESC;
+            ",hard,"SQL, RDBMS"
+Professional meeting that financial method.,"SELECT department, COUNT(*) FROM employees GROUP BY department;",medium,"SQL, RDBMS"
+Perhaps past yet dark.,SELECT * FROM employees;,easy,"SQL, RDBMS"
+Method yeah game moment director tree.,"
+            SELECT e.name, e.salary, d.name as department_name
+            FROM employees e
+            JOIN departments d ON e.department_id = d.id
+            WHERE e.salary > (SELECT AVG(salary) FROM employees)
+            ORDER BY e.salary DESC;
+            ",hard,"SQL, RDBMS"
+Position deal wonder poor hundred form.,"SELECT department, COUNT(*) FROM employees GROUP BY department;",medium,"SQL, RDBMS"
+Value network alone your likely.,SELECT * FROM employees;,easy,"SQL, RDBMS"
+Allow dog put develop really.,"SELECT department, COUNT(*) FROM employees GROUP BY department;",medium,"SQL, RDBMS"
+Enjoy especially even appear day up she.,"
+            SELECT e.name, e.salary, d.name as department_name
+            FROM employees e
+            JOIN departments d ON e.department_id = d.id
+            WHERE e.salary > (SELECT AVG(salary) FROM employees)
+            ORDER BY e.salary DESC;
+            ",hard,"SQL, RDBMS"
+Interview collection manager including military scene.,SELECT * FROM employees;,easy,"SQL, RDBMS"
+Option have history money environmental part include.,"
+            SELECT e.name, e.salary, d.name as department_name
+            FROM employees e
+            JOIN departments d ON e.department_id = d.id
+            WHERE e.salary > (SELECT AVG(salary) FROM employees)
+            ORDER BY e.salary DESC;
+            ",hard,"SQL, RDBMS"
+Analysis center method door individual.,"
+            SELECT e.name, e.salary, d.name as department_name
+            FROM employees e
+            JOIN departments d ON e.department_id = d.id
+            WHERE e.salary > (SELECT AVG(salary) FROM employees)
+            ORDER BY e.salary DESC;
+            ",hard,"SQL, RDBMS"
+Officer evening push education room.,"
+            SELECT e.name, e.salary, d.name as department_name
+            FROM employees e
+            JOIN departments d ON e.department_id = d.id
+            WHERE e.salary > (SELECT AVG(salary) FROM employees)
+            ORDER BY e.salary DESC;
+            ",hard,"SQL, RDBMS"
+Receive set stop sort political method.,SELECT * FROM employees;,easy,"SQL, RDBMS"
+Score bill blood speak cup tonight major itself.,"SELECT department, COUNT(*) FROM employees GROUP BY department;",medium,"SQL, RDBMS"
+Edge day responsibility against speech.,SELECT * FROM employees;,easy,"SQL, RDBMS"
+Section discuss point civil.,"SELECT department, COUNT(*) FROM employees GROUP BY department;",medium,"SQL, RDBMS"
+Other visit raise table position.,"
+            SELECT e.name, e.salary, d.name as department_name
+            FROM employees e
+            JOIN departments d ON e.department_id = d.id
+            WHERE e.salary > (SELECT AVG(salary) FROM employees)
+            ORDER BY e.salary DESC;
+            ",hard,"SQL, RDBMS"
+Do wind bed change other focus attention full.,"SELECT department, COUNT(*) FROM employees GROUP BY department;",medium,"SQL, RDBMS"
+Page face case rate cell feel.,"
+            SELECT e.name, e.salary, d.name as department_name
+            FROM employees e
+            JOIN departments d ON e.department_id = d.id
+            WHERE e.salary > (SELECT AVG(salary) FROM employees)
+            ORDER BY e.salary DESC;
+            ",hard,"SQL, RDBMS"
+Painting person contain meeting.,"SELECT department, COUNT(*) FROM employees GROUP BY department;",medium,"SQL, RDBMS"
+Color will far lose on woman perhaps beautiful.,"SELECT department, COUNT(*) FROM employees GROUP BY department;",medium,"SQL, RDBMS"
+Up rule mention.,"SELECT department, COUNT(*) FROM employees GROUP BY department;",medium,"SQL, RDBMS"
+Collection page moment off represent.,"
+            SELECT e.name, e.salary, d.name as department_name
+            FROM employees e
+            JOIN departments d ON e.department_id = d.id
+            WHERE e.salary > (SELECT AVG(salary) FROM employees)
+            ORDER BY e.salary DESC;
+            ",hard,"SQL, RDBMS"
+Team structure letter behavior write.,"
+            SELECT e.name, e.salary, d.name as department_name
+            FROM employees e
+            JOIN departments d ON e.department_id = d.id
+            WHERE e.salary > (SELECT AVG(salary) FROM employees)
+            ORDER BY e.salary DESC;
+            ",hard,"SQL, RDBMS"
+Mean give price worry still.,SELECT * FROM employees;,easy,"SQL, RDBMS"
+Indicate tonight risk family always rich ask future.,"SELECT department, COUNT(*) FROM employees GROUP BY department;",medium,"SQL, RDBMS"
+Then space consumer note of red.,SELECT * FROM employees;,easy,"SQL, RDBMS"
+Black friend federal marriage.,SELECT * FROM employees;,easy,"SQL, RDBMS"
+Ask when piece.,"SELECT department, COUNT(*) FROM employees GROUP BY department;",medium,"SQL, RDBMS"
+Store land result similar industry.,"
+            SELECT e.name, e.salary, d.name as department_name
+            FROM employees e
+            JOIN departments d ON e.department_id = d.id
+            WHERE e.salary > (SELECT AVG(salary) FROM employees)
+            ORDER BY e.salary DESC;
+            ",hard,"SQL, RDBMS"
+Race party watch agreement wide piece child paper.,"
+            SELECT e.name, e.salary, d.name as department_name
+            FROM employees e
+            JOIN departments d ON e.department_id = d.id
+            WHERE e.salary > (SELECT AVG(salary) FROM employees)
+            ORDER BY e.salary DESC;
+            ",hard,"SQL, RDBMS"
+Term happen side tend business back.,"SELECT department, COUNT(*) FROM employees GROUP BY department;",medium,"SQL, RDBMS"
+Run medical west.,"
+            SELECT e.name, e.salary, d.name as department_name
+            FROM employees e
+            JOIN departments d ON e.department_id = d.id
+            WHERE e.salary > (SELECT AVG(salary) FROM employees)
+            ORDER BY e.salary DESC;
+            ",hard,"SQL, RDBMS"
+Drop lead star since occur reality.,"SELECT department, COUNT(*) FROM employees GROUP BY department;",medium,"SQL, RDBMS"
+Future try us marriage degree drive.,"SELECT department, COUNT(*) FROM employees GROUP BY department;",medium,"SQL, RDBMS"
+Expect court service candidate difference.,"
+            SELECT e.name, e.salary, d.name as department_name
+            FROM employees e
+            JOIN departments d ON e.department_id = d.id
+            WHERE e.salary > (SELECT AVG(salary) FROM employees)
+            ORDER BY e.salary DESC;
+            ",hard,"SQL, RDBMS"
+Enter personal law decision note bad.,"SELECT department, COUNT(*) FROM employees GROUP BY department;",medium,"SQL, RDBMS"
+Large yes again wrong save trip inside.,"
+            SELECT e.name, e.salary, d.name as department_name
+            FROM employees e
+            JOIN departments d ON e.department_id = d.id
+            WHERE e.salary > (SELECT AVG(salary) FROM employees)
+            ORDER BY e.salary DESC;
+            ",hard,"SQL, RDBMS"
+Receive knowledge hotel use senior.,"
+            SELECT e.name, e.salary, d.name as department_name
+            FROM employees e
+            JOIN departments d ON e.department_id = d.id
+            WHERE e.salary > (SELECT AVG(salary) FROM employees)
+            ORDER BY e.salary DESC;
+            ",hard,"SQL, RDBMS"
+Itself apply according environment feel.,SELECT * FROM employees;,easy,"SQL, RDBMS"
+Source decide idea stage.,"SELECT department, COUNT(*) FROM employees GROUP BY department;",medium,"SQL, RDBMS"
+Half reason past between consumer cover.,"SELECT department, COUNT(*) FROM employees GROUP BY department;",medium,"SQL, RDBMS"
+Because face statement whole skin.,"SELECT department, COUNT(*) FROM employees GROUP BY department;",medium,"SQL, RDBMS"
+Best option sell peace.,SELECT * FROM employees;,easy,"SQL, RDBMS"
+Shake allow those pay dark admit.,"
+            SELECT e.name, e.salary, d.name as department_name
+            FROM employees e
+            JOIN departments d ON e.department_id = d.id
+            WHERE e.salary > (SELECT AVG(salary) FROM employees)
+            ORDER BY e.salary DESC;
+            ",hard,"SQL, RDBMS"
+Garden often enter discussion staff white training public.,"SELECT department, COUNT(*) FROM employees GROUP BY department;",medium,"SQL, RDBMS"
+Drug if husband success worry benefit also.,SELECT * FROM employees;,easy,"SQL, RDBMS"
+Second with ask thousand seven science.,SELECT * FROM employees;,easy,"SQL, RDBMS"
+Cause of doctor man.,"
+            SELECT e.name, e.salary, d.name as department_name
+            FROM employees e
+            JOIN departments d ON e.department_id = d.id
+            WHERE e.salary > (SELECT AVG(salary) FROM employees)
+            ORDER BY e.salary DESC;
+            ",hard,"SQL, RDBMS"
+Job course worker choice.,"
+            SELECT e.name, e.salary, d.name as department_name
+            FROM employees e
+            JOIN departments d ON e.department_id = d.id
+            WHERE e.salary > (SELECT AVG(salary) FROM employees)
+            ORDER BY e.salary DESC;
+            ",hard,"SQL, RDBMS"
+Material specific reflect summer baby.,SELECT * FROM employees;,easy,"SQL, RDBMS"
+Let anyone especially few including beyond either case.,"
+            SELECT e.name, e.salary, d.name as department_name
+            FROM employees e
+            JOIN departments d ON e.department_id = d.id
+            WHERE e.salary > (SELECT AVG(salary) FROM employees)
+            ORDER BY e.salary DESC;
+            ",hard,"SQL, RDBMS"
+Vote quite doctor major blood.,"
+            SELECT e.name, e.salary, d.name as department_name
+            FROM employees e
+            JOIN departments d ON e.department_id = d.id
+            WHERE e.salary > (SELECT AVG(salary) FROM employees)
+            ORDER BY e.salary DESC;
+            ",hard,"SQL, RDBMS"
+Various scientist somebody name meet understand country.,SELECT * FROM employees;,easy,"SQL, RDBMS"
+Religious sport computer claim.,"SELECT department, COUNT(*) FROM employees GROUP BY department;",medium,"SQL, RDBMS"
+Former always foot our check born might.,"SELECT department, COUNT(*) FROM employees GROUP BY department;",medium,"SQL, RDBMS"
+Agent response traditional executive fact.,"SELECT department, COUNT(*) FROM employees GROUP BY department;",medium,"SQL, RDBMS"
+Arm perform dream fight.,"
+            SELECT e.name, e.salary, d.name as department_name
+            FROM employees e
+            JOIN departments d ON e.department_id = d.id
+            WHERE e.salary > (SELECT AVG(salary) FROM employees)
+            ORDER BY e.salary DESC;
+            ",hard,"SQL, RDBMS"
+Reality suggest risk effect oil hot month knowledge.,SELECT * FROM employees;,easy,"SQL, RDBMS"
+Arm best peace everyone.,"SELECT department, COUNT(*) FROM employees GROUP BY department;",medium,"SQL, RDBMS"
+Stay edge answer fall.,"
+            SELECT e.name, e.salary, d.name as department_name
+            FROM employees e
+            JOIN departments d ON e.department_id = d.id
+            WHERE e.salary > (SELECT AVG(salary) FROM employees)
+            ORDER BY e.salary DESC;
+            ",hard,"SQL, RDBMS"
+Well night face as entire.,SELECT * FROM employees;,easy,"SQL, RDBMS"
+Practice teacher country Congress imagine letter.,"
+            SELECT e.name, e.salary, d.name as department_name
+            FROM employees e
+            JOIN departments d ON e.department_id = d.id
+            WHERE e.salary > (SELECT AVG(salary) FROM employees)
+            ORDER BY e.salary DESC;
+            ",hard,"SQL, RDBMS"
+She travel director under change rise.,"
+            SELECT e.name, e.salary, d.name as department_name
+            FROM employees e
+            JOIN departments d ON e.department_id = d.id
+            WHERE e.salary > (SELECT AVG(salary) FROM employees)
+            ORDER BY e.salary DESC;
+            ",hard,"SQL, RDBMS"
+Article water expert sing woman.,"SELECT department, COUNT(*) FROM employees GROUP BY department;",medium,"SQL, RDBMS"
+Education subject group option attack night.,SELECT * FROM employees;,easy,"SQL, RDBMS"
+Police make remain conference future four team away.,"
+            SELECT e.name, e.salary, d.name as department_name
+            FROM employees e
+            JOIN departments d ON e.department_id = d.id
+            WHERE e.salary > (SELECT AVG(salary) FROM employees)
+            ORDER BY e.salary DESC;
+            ",hard,"SQL, RDBMS"
+Feeling pressure deep.,"SELECT department, COUNT(*) FROM employees GROUP BY department;",medium,"SQL, RDBMS"
+Very season doctor skin training.,"
+            SELECT e.name, e.salary, d.name as department_name
+            FROM employees e
+            JOIN departments d ON e.department_id = d.id
+            WHERE e.salary > (SELECT AVG(salary) FROM employees)
+            ORDER BY e.salary DESC;
+            ",hard,"SQL, RDBMS"
+Culture former around interesting.,"
+            SELECT e.name, e.salary, d.name as department_name
+            FROM employees e
+            JOIN departments d ON e.department_id = d.id
+            WHERE e.salary > (SELECT AVG(salary) FROM employees)
+            ORDER BY e.salary DESC;
+            ",hard,"SQL, RDBMS"
+Save attorney leg style data start than happy.,"
+            SELECT e.name, e.salary, d.name as department_name
+            FROM employees e
+            JOIN departments d ON e.department_id = d.id
+            WHERE e.salary > (SELECT AVG(salary) FROM employees)
+            ORDER BY e.salary DESC;
+            ",hard,"SQL, RDBMS"
+None region away.,"
+            SELECT e.name, e.salary, d.name as department_name
+            FROM employees e
+            JOIN departments d ON e.department_id = d.id
+            WHERE e.salary > (SELECT AVG(salary) FROM employees)
+            ORDER BY e.salary DESC;
+            ",hard,"SQL, RDBMS"
+Suddenly clear establish.,SELECT * FROM employees;,easy,"SQL, RDBMS"
+Wish effect hospital arm system particularly government.,"SELECT department, COUNT(*) FROM employees GROUP BY department;",medium,"SQL, RDBMS"
+Sometimes maybe argue somebody hard.,"
+            SELECT e.name, e.salary, d.name as department_name
+            FROM employees e
+            JOIN departments d ON e.department_id = d.id
+            WHERE e.salary > (SELECT AVG(salary) FROM employees)
+            ORDER BY e.salary DESC;
+            ",hard,"SQL, RDBMS"
+Customer avoid similar top.,SELECT * FROM employees;,easy,"SQL, RDBMS"
+Claim model factor pick from.,"
+            SELECT e.name, e.salary, d.name as department_name
+            FROM employees e
+            JOIN departments d ON e.department_id = d.id
+            WHERE e.salary > (SELECT AVG(salary) FROM employees)
+            ORDER BY e.salary DESC;
+            ",hard,"SQL, RDBMS"
+Teacher condition common stock.,"SELECT department, COUNT(*) FROM employees GROUP BY department;",medium,"SQL, RDBMS"
+Race health into foreign.,"SELECT department, COUNT(*) FROM employees GROUP BY department;",medium,"SQL, RDBMS"
+Opportunity their you new.,"
+            SELECT c.name, COUNT(o.id) AS order_count
+            FROM customers c
+            LEFT JOIN orders o ON c.id = o.customer_id
+            GROUP BY c.name
+            HAVING COUNT(o.id) > 5;
+            ",hard,"SQL, RDBMS"
+Head maintain owner day consider.,"SELECT product_name, price FROM products WHERE price < 100;",easy,"SQL, RDBMS"
+High plan environment like month class growth give.,"
+            SELECT product_name, price FROM products
+            WHERE price = (SELECT MAX(price) FROM products);
+            ",hard,"SQL, RDBMS"
+Relationship game admit.,"
+            SELECT d.department_name, AVG(e.salary) AS avg_salary
+            FROM employees e
+            JOIN departments d ON e.department_id = d.id
+            GROUP BY d.department_name
+            ORDER BY avg_salary DESC;
+            ",hard,"SQL, RDBMS"
+Walk agreement into by.,"SELECT employee_name, salary FROM employees WHERE salary > 50000 ORDER BY salary DESC;",medium,"SQL, RDBMS"
+Bit send evidence security agency where thing.,"
+            SELECT d.department_name, AVG(e.salary) AS avg_salary
+            FROM employees e
+            JOIN departments d ON e.department_id = d.id
+            GROUP BY d.department_name
+            ORDER BY avg_salary DESC;
+            ",hard,"SQL, RDBMS"
+Research role then PM energy hour.,"
+            SELECT product_name, price FROM products
+            WHERE price = (SELECT MAX(price) FROM products);
+            ",hard,"SQL, RDBMS"
+Watch professor teacher west water.,"SELECT product_name, price FROM products WHERE price < 100;",easy,"SQL, RDBMS"
+Three movie consider particular nature table.,SELECT name FROM customers ORDER BY name ASC;,easy,"SQL, RDBMS"
+Wall education simple store page rest floor.,"
+            SELECT d.department_name, AVG(e.salary) AS avg_salary
+            FROM employees e
+            JOIN departments d ON e.department_id = d.id
+            GROUP BY d.department_name
+            ORDER BY avg_salary DESC;
+            ",hard,"SQL, RDBMS"
+May another interview.,"SELECT employee_name, salary FROM employees WHERE salary > 50000 ORDER BY salary DESC;",medium,"SQL, RDBMS"
+Open big claim way.,SELECT COUNT(*) FROM orders;,easy,"SQL, RDBMS"
+Help doctor glass effect.,"
+            SELECT e.name, e.salary, d.name as department_name
+            FROM employees e
+            JOIN departments d ON e.department_id = d.id
+            WHERE e.salary > (SELECT AVG(salary) FROM employees)
+            ORDER BY e.salary DESC;
+            ",hard,"SQL, RDBMS"
+Whose local follow dream hard home.,"
+            WITH top_salaries AS (
+                SELECT employee_id, salary, RANK() OVER (ORDER BY salary DESC) AS rank
+                FROM employees
+            )
+            SELECT * FROM top_salaries WHERE rank <= 3;
+            ",hard,"SQL, RDBMS"
+Their talk drug ask where car type.,SELECT COUNT(*) FROM orders;,easy,"SQL, RDBMS"
+Probably any structure fire eat agree enter executive.,SELECT COUNT(*) FROM orders;,easy,"SQL, RDBMS"
+Expert step feel drive.,SELECT * FROM employees;,easy,"SQL, RDBMS"
+Enter compare its speech.,"SELECT product_name, price FROM products WHERE price < 100;",easy,"SQL, RDBMS"
+Between however institution whom perhaps subject.,SELECT COUNT(*) FROM orders;,easy,"SQL, RDBMS"
+Range be threat hair example already.,SELECT name FROM students WHERE age BETWEEN 18 AND 25;,medium,"SQL, RDBMS"
+Current describe offer service.,"SELECT country, SUM(sales) FROM sales GROUP BY country HAVING SUM(sales) > 1000;",medium,"SQL, RDBMS"
+Reflect person money someone ten.,"
+            SELECT product_name, price FROM products
+            WHERE price = (SELECT MAX(price) FROM products);
+            ",hard,"SQL, RDBMS"
+When we arm event.,SELECT * FROM employees;,easy,"SQL, RDBMS"
+Else power fund like line trip national.,SELECT * FROM employees;,easy,"SQL, RDBMS"
+Parent deep detail stand value officer.,"SELECT department, COUNT(*) FROM employees GROUP BY department;",medium,"SQL, RDBMS"
+Cup environmental history agreement sign wrong.,SELECT * FROM employees;,easy,"SQL, RDBMS"
+Sound bar present never court wear best environment.,"SELECT name, age FROM students WHERE age > 18;",easy,"SQL, RDBMS"
+Television control various condition too sort.,SELECT COUNT(*) FROM orders;,easy,"SQL, RDBMS"
+It attention worry true mission work its mind.,"
+            SELECT c.name, COUNT(o.id) AS order_count
+            FROM customers c
+            LEFT JOIN orders o ON c.id = o.customer_id
+            GROUP BY c.name
+            HAVING COUNT(o.id) > 5;
+            ",hard,"SQL, RDBMS"
+Science leader along he high.,"
+            WITH top_salaries AS (
+                SELECT employee_id, salary, RANK() OVER (ORDER BY salary DESC) AS rank
+                FROM employees
+            )
+            SELECT * FROM top_salaries WHERE rank <= 3;
+            ",hard,"SQL, RDBMS"
+Kind box born include.,"
+            WITH top_salaries AS (
+                SELECT employee_id, salary, RANK() OVER (ORDER BY salary DESC) AS rank
+                FROM employees
+            )
+            SELECT * FROM top_salaries WHERE rank <= 3;
+            ",hard,"SQL, RDBMS"
+End recent plant much age scientist.,"SELECT product_name, price FROM products WHERE price < 100;",easy,"SQL, RDBMS"
+Environment skin back TV heart hand help.,"
+            SELECT d.department_name, AVG(e.salary) AS avg_salary
+            FROM employees e
+            JOIN departments d ON e.department_id = d.id
+            GROUP BY d.department_name
+            ORDER BY avg_salary DESC;
+            ",hard,"SQL, RDBMS"
+Responsibility hundred ask throughout industry.,SELECT name FROM customers ORDER BY name ASC;,easy,"SQL, RDBMS"
+Human three deep ball cover.,"SELECT department, COUNT(*) FROM employees GROUP BY department;",medium,"SQL, RDBMS"
+Song while use enter outside son forget.,"SELECT country, SUM(sales) FROM sales GROUP BY country HAVING SUM(sales) > 1000;",medium,"SQL, RDBMS"
+Others thought amount start determine model talk.,SELECT name FROM students WHERE age BETWEEN 18 AND 25;,medium,"SQL, RDBMS"
+Walk vote moment soldier still but deal similar.,"SELECT category, AVG(price) FROM products GROUP BY category;",medium,"SQL, RDBMS"
+Mind standard food law fear ago.,SELECT name FROM students WHERE age BETWEEN 18 AND 25;,medium,"SQL, RDBMS"
+Teach nation cover try trouble.,SELECT * FROM employees;,easy,"SQL, RDBMS"
+Building already process responsibility perform short.,SELECT * FROM employees;,easy,"SQL, RDBMS"
+Happy identify low continue.,"
+            SELECT d.department_name, AVG(e.salary) AS avg_salary
+            FROM employees e
+            JOIN departments d ON e.department_id = d.id
+            GROUP BY d.department_name
+            ORDER BY avg_salary DESC;
+            ",hard,"SQL, RDBMS"
+Price her dinner song reduce similar focus.,"
+            SELECT e.name, e.salary, d.name as department_name
+            FROM employees e
+            JOIN departments d ON e.department_id = d.id
+            WHERE e.salary > (SELECT AVG(salary) FROM employees)
+            ORDER BY e.salary DESC;
+            ",hard,"SQL, RDBMS"
+National during involve represent none music.,SELECT name FROM students WHERE age BETWEEN 18 AND 25;,medium,"SQL, RDBMS"
+Event happen a shake certainly right manage store.,SELECT * FROM employees;,easy,"SQL, RDBMS"
+A though article bed key garden produce.,SELECT COUNT(*) FROM orders;,easy,"SQL, RDBMS"
+Technology his size concern able account.,"SELECT product_name, price FROM products WHERE price < 100;",easy,"SQL, RDBMS"
+Boy dog gun community sometimes student.,"SELECT product_name, price FROM products WHERE price < 100;",easy,"SQL, RDBMS"
+Offer consider can risk save sell.,SELECT name FROM students WHERE age BETWEEN 18 AND 25;,medium,"SQL, RDBMS"
+Difficult prevent model face property.,"SELECT country, SUM(sales) FROM sales GROUP BY country HAVING SUM(sales) > 1000;",medium,"SQL, RDBMS"
+Institution fish type exactly long environmental suggest.,"SELECT category, AVG(price) FROM products GROUP BY category;",medium,"SQL, RDBMS"
+Marriage employee important about.,"
+            SELECT e.name, e.salary, d.name as department_name
+            FROM employees e
+            JOIN departments d ON e.department_id = d.id
+            WHERE e.salary > (SELECT AVG(salary) FROM employees)
+            ORDER BY e.salary DESC;
+            ",hard,"SQL, RDBMS"
+His experience traditional anyone identify Republican.,"SELECT employee_name, salary FROM employees WHERE salary > 50000 ORDER BY salary DESC;",medium,"SQL, RDBMS"
+Receive maybe radio agency.,"
+            SELECT d.department_name, AVG(e.salary) AS avg_salary
+            FROM employees e
+            JOIN departments d ON e.department_id = d.id
+            GROUP BY d.department_name
+            ORDER BY avg_salary DESC;
+            ",hard,"SQL, RDBMS"
+Start green Mrs site remain.,SELECT COUNT(*) FROM orders;,easy,"SQL, RDBMS"
+Into age culture truth there book contain.,SELECT name FROM students WHERE age BETWEEN 18 AND 25;,medium,"SQL, RDBMS"
+Former focus know future other among travel property.,"SELECT employee_name, salary FROM employees WHERE salary > 50000 ORDER BY salary DESC;",medium,"SQL, RDBMS"
+Employee room about goal Mr.,"SELECT name, age FROM students WHERE age > 18;",easy,"SQL, RDBMS"
+Fast product even while woman moment nearly.,SELECT name FROM students WHERE age BETWEEN 18 AND 25;,medium,"SQL, RDBMS"
+Executive morning design two close safe form.,"
+            SELECT d.department_name, AVG(e.salary) AS avg_salary
+            FROM employees e
+            JOIN departments d ON e.department_id = d.id
+            GROUP BY d.department_name
+            ORDER BY avg_salary DESC;
+            ",hard,"SQL, RDBMS"
+Front perhaps pressure consider site war pull.,SELECT name FROM students WHERE age BETWEEN 18 AND 25;,medium,"SQL, RDBMS"
+Treat must half.,SELECT * FROM employees;,easy,"SQL, RDBMS"
+Fight treatment myself ahead behind.,"
+            SELECT d.department_name, AVG(e.salary) AS avg_salary
+            FROM employees e
+            JOIN departments d ON e.department_id = d.id
+            GROUP BY d.department_name
+            ORDER BY avg_salary DESC;
+            ",hard,"SQL, RDBMS"
+Dream claim rule boy ahead source.,"
+            SELECT d.department_name, AVG(e.salary) AS avg_salary
+            FROM employees e
+            JOIN departments d ON e.department_id = d.id
+            GROUP BY d.department_name
+            ORDER BY avg_salary DESC;
+            ",hard,"SQL, RDBMS"
+Operation her against account southern box draw.,"
+            SELECT d.department_name, AVG(e.salary) AS avg_salary
+            FROM employees e
+            JOIN departments d ON e.department_id = d.id
+            GROUP BY d.department_name
+            ORDER BY avg_salary DESC;
+            ",hard,"SQL, RDBMS"
+Car sell believe kind church production.,SELECT name FROM students WHERE age BETWEEN 18 AND 25;,medium,"SQL, RDBMS"
+Leg present west soon measure current.,SELECT COUNT(*) FROM orders;,easy,"SQL, RDBMS"
+Cold manager rate important wear its.,"SELECT category, AVG(price) FROM products GROUP BY category;",medium,"SQL, RDBMS"
+Despite set budget relationship decide away movement.,"SELECT name, age FROM students WHERE age > 18;",easy,"SQL, RDBMS"
+Five drive less ready activity military.,"
+            SELECT c.name, COUNT(o.id) AS order_count
+            FROM customers c
+            LEFT JOIN orders o ON c.id = o.customer_id
+            GROUP BY c.name
+            HAVING COUNT(o.id) > 5;
+            ",hard,"SQL, RDBMS"
+Manager ready wish thank yeah one.,"
+            SELECT product_name, price FROM products
+            WHERE price = (SELECT MAX(price) FROM products);
+            ",hard,"SQL, RDBMS"
+Ok admit local game.,"
+            SELECT e.name, e.salary, d.name as department_name
+            FROM employees e
+            JOIN departments d ON e.department_id = d.id
+            WHERE e.salary > (SELECT AVG(salary) FROM employees)
+            ORDER BY e.salary DESC;
+            ",hard,"SQL, RDBMS"
+Condition over life tell southern hot own.,"SELECT country, SUM(sales) FROM sales GROUP BY country HAVING SUM(sales) > 1000;",medium,"SQL, RDBMS"
+Again brother both trouble southern.,"SELECT employee_name, salary FROM employees WHERE salary > 50000 ORDER BY salary DESC;",medium,"SQL, RDBMS"
+Under ever about number according on rest.,"SELECT category, AVG(price) FROM products GROUP BY category;",medium,"SQL, RDBMS"
+International allow form body along they.,"
+            SELECT c.name, COUNT(o.id) AS order_count
+            FROM customers c
+            LEFT JOIN orders o ON c.id = o.customer_id
+            GROUP BY c.name
+            HAVING COUNT(o.id) > 5;
+            ",hard,"SQL, RDBMS"
+International cause measure.,"
+            SELECT e.name, e.salary, d.name as department_name
+            FROM employees e
+            JOIN departments d ON e.department_id = d.id
+            WHERE e.salary > (SELECT AVG(salary) FROM employees)
+            ORDER BY e.salary DESC;
+            ",hard,"SQL, RDBMS"
+Note bill ready around nation go.,"SELECT department, COUNT(*) FROM employees GROUP BY department;",medium,"SQL, RDBMS"
+Wonder would because section cultural.,"
+            SELECT e.name, e.salary, d.name as department_name
+            FROM employees e
+            JOIN departments d ON e.department_id = d.id
+            WHERE e.salary > (SELECT AVG(salary) FROM employees)
+            ORDER BY e.salary DESC;
+            ",hard,"SQL, RDBMS"
+Although clearly sense expect fast.,SELECT name FROM students WHERE age BETWEEN 18 AND 25;,medium,"SQL, RDBMS"
+Particularly bank name lot.,"SELECT product_name, price FROM products WHERE price < 100;",easy,"SQL, RDBMS"
+Study policy drug.,"SELECT category, AVG(price) FROM products GROUP BY category;",medium,"SQL, RDBMS"
+Listen place attorney big.,SELECT * FROM employees;,easy,"SQL, RDBMS"
+Pull watch successful.,"SELECT name, age FROM students WHERE age > 18;",easy,"SQL, RDBMS"
+Its wall join indicate.,"SELECT product_name, price FROM products WHERE price < 100;",easy,"SQL, RDBMS"
+Detail physical wear him even fast.,"
+            SELECT c.name, COUNT(o.id) AS order_count
+            FROM customers c
+            LEFT JOIN orders o ON c.id = o.customer_id
+            GROUP BY c.name
+            HAVING COUNT(o.id) > 5;
+            ",hard,"SQL, RDBMS"
+Common group business three according attorney.,"
+            SELECT c.name, COUNT(o.id) AS order_count
+            FROM customers c
+            LEFT JOIN orders o ON c.id = o.customer_id
+            GROUP BY c.name
+            HAVING COUNT(o.id) > 5;
+            ",hard,"SQL, RDBMS"
+Make seek Mrs clearly middle front tax.,SELECT name FROM students WHERE age BETWEEN 18 AND 25;,medium,"SQL, RDBMS"
+Field out seem smile condition.,"SELECT department, COUNT(*) FROM employees GROUP BY department;",medium,"SQL, RDBMS"
+Doctor attorney arrive sometimes total subject study.,SELECT name FROM customers ORDER BY name ASC;,easy,"SQL, RDBMS"
+Cold cover language card scene candidate.,SELECT COUNT(*) FROM orders;,easy,"SQL, RDBMS"
+Visit country table memory.,"
+            WITH top_salaries AS (
+                SELECT employee_id, salary, RANK() OVER (ORDER BY salary DESC) AS rank
+                FROM employees
+            )
+            SELECT * FROM top_salaries WHERE rank <= 3;
+            ",hard,"SQL, RDBMS"
+Energy well prove rate discussion my partner Mr.,"SELECT name, age FROM students WHERE age > 18;",easy,"SQL, RDBMS"
+Identify mention weight ball media long.,SELECT * FROM employees;,easy,"SQL, RDBMS"
+Ask newspaper condition let alone candidate meet.,"SELECT category, AVG(price) FROM products GROUP BY category;",medium,"SQL, RDBMS"
+Begin tell drive.,"SELECT product_name, price FROM products WHERE price < 100;",easy,"SQL, RDBMS"
+West open risk.,"
+            SELECT c.name, COUNT(o.id) AS order_count
+            FROM customers c
+            LEFT JOIN orders o ON c.id = o.customer_id
+            GROUP BY c.name
+            HAVING COUNT(o.id) > 5;
+            ",hard,"SQL, RDBMS"
+Produce factor government hotel single order anything our.,"SELECT product_name, price FROM products WHERE price < 100;",easy,"SQL, RDBMS"
+Safe film hard add collection.,"
+            WITH top_salaries AS (
+                SELECT employee_id, salary, RANK() OVER (ORDER BY salary DESC) AS rank
+                FROM employees
+            )
+            SELECT * FROM top_salaries WHERE rank <= 3;
+            ",hard,"SQL, RDBMS"
+House job write.,"SELECT name, age FROM students WHERE age > 18;",easy,"SQL, RDBMS"
+Brother later back herself order big.,"
+            SELECT product_name, price FROM products
+            WHERE price = (SELECT MAX(price) FROM products);
+            ",hard,"SQL, RDBMS"
+Need drop per.,"SELECT department, COUNT(*) FROM employees GROUP BY department;",medium,"SQL, RDBMS"
+Many conference challenge process month save.,"
+            SELECT d.department_name, AVG(e.salary) AS avg_salary
+            FROM employees e
+            JOIN departments d ON e.department_id = d.id
+            GROUP BY d.department_name
+            ORDER BY avg_salary DESC;
+            ",hard,"SQL, RDBMS"
+Personal machine its.,"SELECT product_name, price FROM products WHERE price < 100;",easy,"SQL, RDBMS"
+Particularly finish blue natural federal outside.,SELECT * FROM employees;,easy,"SQL, RDBMS"
+Very speech set there as rule.,"SELECT country, SUM(sales) FROM sales GROUP BY country HAVING SUM(sales) > 1000;",medium,"SQL, RDBMS"
+Until team policy technology police.,"SELECT product_name, price FROM products WHERE price < 100;",easy,"SQL, RDBMS"
+Above offer hope ago food green concern.,"
+            SELECT d.department_name, AVG(e.salary) AS avg_salary
+            FROM employees e
+            JOIN departments d ON e.department_id = d.id
+            GROUP BY d.department_name
+            ORDER BY avg_salary DESC;
+            ",hard,"SQL, RDBMS"
+At benefit assume force.,"SELECT name, age FROM students WHERE age > 18;",easy,"SQL, RDBMS"
+With wrong week whom clear right record serve.,"
+            SELECT product_name, price FROM products
+            WHERE price = (SELECT MAX(price) FROM products);
+            ",hard,"SQL, RDBMS"
+Audience remember myself specific room.,"
+            SELECT c.name, COUNT(o.id) AS order_count
+            FROM customers c
+            LEFT JOIN orders o ON c.id = o.customer_id
+            GROUP BY c.name
+            HAVING COUNT(o.id) > 5;
+            ",hard,"SQL, RDBMS"
+Eat partner tree action source others.,"SELECT product_name, price FROM products WHERE price < 100;",easy,"SQL, RDBMS"
+Force play recent wonder.,SELECT COUNT(*) FROM orders;,easy,"SQL, RDBMS"
+Response real majority majority by organization.,SELECT name FROM students WHERE age BETWEEN 18 AND 25;,medium,"SQL, RDBMS"
+Wait race news scientist think.,"
+            SELECT c.name, COUNT(o.id) AS order_count
+            FROM customers c
+            LEFT JOIN orders o ON c.id = o.customer_id
+            GROUP BY c.name
+            HAVING COUNT(o.id) > 5;
+            ",hard,"SQL, RDBMS"
+Beat would manager end building if.,"SELECT department, COUNT(*) FROM employees GROUP BY department;",medium,"SQL, RDBMS"
+Bit shake woman really.,"
+            WITH top_salaries AS (
+                SELECT employee_id, salary, RANK() OVER (ORDER BY salary DESC) AS rank
+                FROM employees
+            )
+            SELECT * FROM top_salaries WHERE rank <= 3;
+            ",hard,"SQL, RDBMS"
+Us word book name dark policy.,"SELECT department, COUNT(*) FROM employees GROUP BY department;",medium,"SQL, RDBMS"
+Improve reality reduce daughter.,"SELECT product_name, price FROM products WHERE price < 100;",easy,"SQL, RDBMS"
+Author news history myself.,"SELECT country, SUM(sales) FROM sales GROUP BY country HAVING SUM(sales) > 1000;",medium,"SQL, RDBMS"
+Tree skin someone.,"SELECT country, SUM(sales) FROM sales GROUP BY country HAVING SUM(sales) > 1000;",medium,"SQL, RDBMS"
+Drug tough whom something forget.,SELECT COUNT(*) FROM orders;,easy,"SQL, RDBMS"
+In firm during huge begin my.,SELECT name FROM customers ORDER BY name ASC;,easy,"SQL, RDBMS"
+Site floor perform.,"
+            WITH top_salaries AS (
+                SELECT employee_id, salary, RANK() OVER (ORDER BY salary DESC) AS rank
+                FROM employees
+            )
+            SELECT * FROM top_salaries WHERE rank <= 3;
+            ",hard,"SQL, RDBMS"
+May growth gun.,SELECT COUNT(*) FROM orders;,easy,"SQL, RDBMS"
+Dark necessary land staff special.,"
+            SELECT e.name, e.salary, d.name as department_name
+            FROM employees e
+            JOIN departments d ON e.department_id = d.id
+            WHERE e.salary > (SELECT AVG(salary) FROM employees)
+            ORDER BY e.salary DESC;
+            ",hard,"SQL, RDBMS"
+Only structure wife play able couple research.,SELECT name FROM customers ORDER BY name ASC;,easy,"SQL, RDBMS"
+Item could fund stuff soon large hot though.,SELECT COUNT(*) FROM orders;,easy,"SQL, RDBMS"
+Lot either book expert soldier.,"
+            SELECT c.name, COUNT(o.id) AS order_count
+            FROM customers c
+            LEFT JOIN orders o ON c.id = o.customer_id
+            GROUP BY c.name
+            HAVING COUNT(o.id) > 5;
+            ",hard,"SQL, RDBMS"
+Because subject quality administration deal few support.,SELECT name FROM customers ORDER BY name ASC;,easy,"SQL, RDBMS"
+Four with other shake whom call citizen.,"SELECT department, COUNT(*) FROM employees GROUP BY department;",medium,"SQL, RDBMS"
+Main white assume.,SELECT name FROM customers ORDER BY name ASC;,easy,"SQL, RDBMS"
+Particular seat price court.,"
+            SELECT e.name, e.salary, d.name as department_name
+            FROM employees e
+            JOIN departments d ON e.department_id = d.id
+            WHERE e.salary > (SELECT AVG(salary) FROM employees)
+            ORDER BY e.salary DESC;
+            ",hard,"SQL, RDBMS"
+Break story feel.,"SELECT name, age FROM students WHERE age > 18;",easy,"SQL, RDBMS"
+Behind trial sense but though strong him.,"
+            SELECT e.name, e.salary, d.name as department_name
+            FROM employees e
+            JOIN departments d ON e.department_id = d.id
+            WHERE e.salary > (SELECT AVG(salary) FROM employees)
+            ORDER BY e.salary DESC;
+            ",hard,"SQL, RDBMS"
+Style nor vote performance hair.,"
+            WITH top_salaries AS (
+                SELECT employee_id, salary, RANK() OVER (ORDER BY salary DESC) AS rank
+                FROM employees
+            )
+            SELECT * FROM top_salaries WHERE rank <= 3;
+            ",hard,"SQL, RDBMS"
+Material society town senior this.,SELECT * FROM employees;,easy,"SQL, RDBMS"
+Population yet fund check argue such.,"SELECT name, age FROM students WHERE age > 18;",easy,"SQL, RDBMS"
+Respond home he choose.,"SELECT department, COUNT(*) FROM employees GROUP BY department;",medium,"SQL, RDBMS"
+Also will lot bit rate over movie.,"SELECT country, SUM(sales) FROM sales GROUP BY country HAVING SUM(sales) > 1000;",medium,"SQL, RDBMS"
+Your machine federal public every cultural agree.,"SELECT employee_name, salary FROM employees WHERE salary > 50000 ORDER BY salary DESC;",medium,"SQL, RDBMS"
+Doctor factor south involve he treatment two.,"
+            WITH top_salaries AS (
+                SELECT employee_id, salary, RANK() OVER (ORDER BY salary DESC) AS rank
+                FROM employees
+            )
+            SELECT * FROM top_salaries WHERE rank <= 3;
+            ",hard,"SQL, RDBMS"
+Information something candidate point idea include.,"
+            SELECT d.department_name, AVG(e.salary) AS avg_salary
+            FROM employees e
+            JOIN departments d ON e.department_id = d.id
+            GROUP BY d.department_name
+            ORDER BY avg_salary DESC;
+            ",hard,"SQL, RDBMS"
+Wrong bit agree southern.,"SELECT employee_name, salary FROM employees WHERE salary > 50000 ORDER BY salary DESC;",medium,"SQL, RDBMS"
+Shoulder night hospital collection majority mother.,"SELECT name, age FROM students WHERE age > 18;",easy,"SQL, RDBMS"
+Kid board loss identify.,SELECT * FROM employees;,easy,"SQL, RDBMS"
+Space they character may heavy whose ten clear.,"
+            SELECT d.department_name, AVG(e.salary) AS avg_salary
+            FROM employees e
+            JOIN departments d ON e.department_id = d.id
+            GROUP BY d.department_name
+            ORDER BY avg_salary DESC;
+            ",hard,"SQL, RDBMS"
+Season whose people behavior subject.,"
+            SELECT c.name, COUNT(o.id) AS order_count
+            FROM customers c
+            LEFT JOIN orders o ON c.id = o.customer_id
+            GROUP BY c.name
+            HAVING COUNT(o.id) > 5;
+            ",hard,"SQL, RDBMS"
+Measure edge herself religious bill.,SELECT COUNT(*) FROM orders;,easy,"SQL, RDBMS"
+Deal Democrat tax.,"SELECT employee_name, salary FROM employees WHERE salary > 50000 ORDER BY salary DESC;",medium,"SQL, RDBMS"
+Physical adult think far cause.,"SELECT product_name, price FROM products WHERE price < 100;",easy,"SQL, RDBMS"
+Action appear security.,"SELECT employee_name, salary FROM employees WHERE salary > 50000 ORDER BY salary DESC;",medium,"SQL, RDBMS"
+Live very leave.,"
+            SELECT d.department_name, AVG(e.salary) AS avg_salary
+            FROM employees e
+            JOIN departments d ON e.department_id = d.id
+            GROUP BY d.department_name
+            ORDER BY avg_salary DESC;
+            ",hard,"SQL, RDBMS"
+Trial door yourself.,"
+            SELECT product_name, price FROM products
+            WHERE price = (SELECT MAX(price) FROM products);
+            ",hard,"SQL, RDBMS"
+Myself explain glass it current.,SELECT name FROM students WHERE age BETWEEN 18 AND 25;,medium,"SQL, RDBMS"
+Throughout Democrat site unit water understand.,"SELECT category, AVG(price) FROM products GROUP BY category;",medium,"SQL, RDBMS"
+Establish quality practice brother.,"
+            SELECT d.department_name, AVG(e.salary) AS avg_salary
+            FROM employees e
+            JOIN departments d ON e.department_id = d.id
+            GROUP BY d.department_name
+            ORDER BY avg_salary DESC;
+            ",hard,"SQL, RDBMS"
+Space her imagine tree sign recently whose.,"
+            SELECT product_name, price FROM products
+            WHERE price = (SELECT MAX(price) FROM products);
+            ",hard,"SQL, RDBMS"
+Those more word authority news.,SELECT name FROM students WHERE age BETWEEN 18 AND 25;,medium,"SQL, RDBMS"
+Majority people able man place voice culture.,"SELECT country, SUM(sales) FROM sales GROUP BY country HAVING SUM(sales) > 1000;",medium,"SQL, RDBMS"
+At lot attention because blue daughter.,"SELECT employee_name, salary FROM employees WHERE salary > 50000 ORDER BY salary DESC;",medium,"SQL, RDBMS"
+Green rate organization out style trade while.,"SELECT category, AVG(price) FROM products GROUP BY category;",medium,"SQL, RDBMS"
+Western claim weight like guy smile.,"SELECT product_name, price FROM products WHERE price < 100;",easy,"SQL, RDBMS"
+We attack real still major.,"SELECT product_name, price FROM products WHERE price < 100;",easy,"SQL, RDBMS"
+Consumer member present any check want north.,"SELECT employee_name, salary FROM employees WHERE salary > 50000 ORDER BY salary DESC;",medium,"SQL, RDBMS"
+Edge then positive rich morning others method.,"SELECT department, COUNT(*) FROM employees GROUP BY department;",medium,"SQL, RDBMS"
+Program think thus two yes high.,SELECT COUNT(*) FROM orders;,easy,"SQL, RDBMS"
+Fine what hand effort.,SELECT * FROM employees;,easy,"SQL, RDBMS"
+Agent husband public fact seem team oil.,SELECT COUNT(*) FROM orders;,easy,"SQL, RDBMS"
+These sign effort wish direction significant.,SELECT name FROM customers ORDER BY name ASC;,easy,"SQL, RDBMS"
+Light benefit watch kid various draw agree.,"
+            SELECT d.department_name, AVG(e.salary) AS avg_salary
+            FROM employees e
+            JOIN departments d ON e.department_id = d.id
+            GROUP BY d.department_name
+            ORDER BY avg_salary DESC;
+            ",hard,"SQL, RDBMS"
+Alone blood customer someone agent upon.,"
+            SELECT d.department_name, AVG(e.salary) AS avg_salary
+            FROM employees e
+            JOIN departments d ON e.department_id = d.id
+            GROUP BY d.department_name
+            ORDER BY avg_salary DESC;
+            ",hard,"SQL, RDBMS"
+Could bar rule make voice available.,"SELECT name, age FROM students WHERE age > 18;",easy,"SQL, RDBMS"
+Garden job rock miss majority hour great eat.,"SELECT product_name, price FROM products WHERE price < 100;",easy,"SQL, RDBMS"
+Service red trade eat weight.,"
+            SELECT product_name, price FROM products
+            WHERE price = (SELECT MAX(price) FROM products);
+            ",hard,"SQL, RDBMS"
+Economic total exist would stage before truth.,"SELECT category, AVG(price) FROM products GROUP BY category;",medium,"SQL, RDBMS"
+Start information me arm process response.,"SELECT name, age FROM students WHERE age > 18;",easy,"SQL, RDBMS"
+End prevent least people tend southern tonight.,"SELECT country, SUM(sales) FROM sales GROUP BY country HAVING SUM(sales) > 1000;",medium,"SQL, RDBMS"
+Security this commercial far.,"SELECT employee_name, salary FROM employees WHERE salary > 50000 ORDER BY salary DESC;",medium,"SQL, RDBMS"
+Kind firm national ready between must send.,"
+            WITH top_salaries AS (
+                SELECT employee_id, salary, RANK() OVER (ORDER BY salary DESC) AS rank
+                FROM employees
+            )
+            SELECT * FROM top_salaries WHERE rank <= 3;
+            ",hard,"SQL, RDBMS"
+Wish avoid painting relationship positive reduce.,"SELECT product_name, price FROM products WHERE price < 100;",easy,"SQL, RDBMS"
+Modern study everything attack pattern.,"
+            SELECT c.name, COUNT(o.id) AS order_count
+            FROM customers c
+            LEFT JOIN orders o ON c.id = o.customer_id
+            GROUP BY c.name
+            HAVING COUNT(o.id) > 5;
+            ",hard,"SQL, RDBMS"
+Tree health story change service range others.,"SELECT department, COUNT(*) FROM employees GROUP BY department;",medium,"SQL, RDBMS"
+Statement deep agreement generation.,"
+            SELECT product_name, price FROM products
+            WHERE price = (SELECT MAX(price) FROM products);
+            ",hard,"SQL, RDBMS"
+Wide religious newspaper.,SELECT name FROM students WHERE age BETWEEN 18 AND 25;,medium,"SQL, RDBMS"
+Phone purpose bar fight.,"SELECT category, AVG(price) FROM products GROUP BY category;",medium,"SQL, RDBMS"
+Here focus simple raise final kid three.,"
+            SELECT c.name, COUNT(o.id) AS order_count
+            FROM customers c
+            LEFT JOIN orders o ON c.id = o.customer_id
+            GROUP BY c.name
+            HAVING COUNT(o.id) > 5;
+            ",hard,"SQL, RDBMS"
+Hundred best others crime someone.,"SELECT department, COUNT(*) FROM employees GROUP BY department;",medium,"SQL, RDBMS"
+Above deep send current safe mouth statement important.,SELECT name FROM students WHERE age BETWEEN 18 AND 25;,medium,"SQL, RDBMS"
+Doctor within find environmental.,"SELECT department, COUNT(*) FROM employees GROUP BY department;",medium,"SQL, RDBMS"
+Approach garden beat old kind read probably idea.,"
+            WITH top_salaries AS (
+                SELECT employee_id, salary, RANK() OVER (ORDER BY salary DESC) AS rank
+                FROM employees
+            )
+            SELECT * FROM top_salaries WHERE rank <= 3;
+            ",hard,"SQL, RDBMS"
+Ahead special entire a worry consider.,"SELECT employee_name, salary FROM employees WHERE salary > 50000 ORDER BY salary DESC;",medium,"SQL, RDBMS"
+Great enough politics identify kind debate.,SELECT name FROM customers ORDER BY name ASC;,easy,"SQL, RDBMS"
+Risk arrive newspaper north father door.,"SELECT product_name, price FROM products WHERE price < 100;",easy,"SQL, RDBMS"
+Reduce different off instead level.,SELECT * FROM employees;,easy,"SQL, RDBMS"
+Return story evidence teacher upon.,"
+            SELECT c.name, COUNT(o.id) AS order_count
+            FROM customers c
+            LEFT JOIN orders o ON c.id = o.customer_id
+            GROUP BY c.name
+            HAVING COUNT(o.id) > 5;
+            ",hard,"SQL, RDBMS"
+Themselves positive money community be.,"
+            SELECT c.name, COUNT(o.id) AS order_count
+            FROM customers c
+            LEFT JOIN orders o ON c.id = o.customer_id
+            GROUP BY c.name
+            HAVING COUNT(o.id) > 5;
+            ",hard,"SQL, RDBMS"
+What lead man determine provide throw.,"
+            SELECT d.department_name, AVG(e.salary) AS avg_salary
+            FROM employees e
+            JOIN departments d ON e.department_id = d.id
+            GROUP BY d.department_name
+            ORDER BY avg_salary DESC;
+            ",hard,"SQL, RDBMS"
+Paper her forget himself suggest herself Mrs process.,"
+            WITH top_salaries AS (
+                SELECT employee_id, salary, RANK() OVER (ORDER BY salary DESC) AS rank
+                FROM employees
+            )
+            SELECT * FROM top_salaries WHERE rank <= 3;
+            ",hard,"SQL, RDBMS"

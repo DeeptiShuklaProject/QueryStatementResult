@@ -1,0 +1,9 @@
+
+##automatically generate sql queries data
+
+python manage.py generate_sql_data
+
+##Downloading CSV in a Django View:
+
+python manage.py runserver
+when you visit /download-csv/, the browser will automatically download the generated CSV file.
