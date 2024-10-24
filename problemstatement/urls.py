@@ -20,6 +20,7 @@ from django.urls import path, include
 from rest_framework.routers import DefaultRouter
 from myapp.views import ProblemStatementViewSet, TagViewSet
 from myapp.views import export_csv
+from myapp.views import download_csv
 
 # Define the router
 router = DefaultRouter()
@@ -29,7 +30,9 @@ router.register(r'tags', TagViewSet)
 urlpatterns = [
     path('', include(router.urls)),
     path('export-csv/', export_csv, name='export_csv'),
+    path('download-csv/', download_csv, name='download_csv'),
 ]
+
 
 
 

@@ -35,3 +35,29 @@ def export_csv(request):
         writer.writerow([query.statement, query.query, query.level, query.tag_ids])
 
     return response
+
+# views.py
+from django.http import HttpResponse
+import csv
+from myapp.models import ProblemStatement
+
+def download_csv(request):
+    # Create the HttpResponse object with the appropriate CSV header.
+    response = HttpResponse(content_type='text/csv')
+    response['Content-Disposition'] = 'attachment; filename="sql_queries.csv"'
+
+    # Create a CSV writer
+    writer = csv.writer(response)
+
+    # Write the headers
+    writer.writerow(['Statement', 'Query', 'Level', 'Tag Names'])
+
+    # Fetch all ProblemStatements
+    problem_statements = ProblemStatement.objects.all()
+
+    # Write data rows
+    for problem in problem_statements:
+        tags = ', '.join(tag.name for tag in problem.tag.all())
+        writer.writerow([problem.statement, problem.query, problem.level, tags])
+
+    return response
