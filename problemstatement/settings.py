@@ -78,7 +78,7 @@ WSGI_APPLICATION = "problemstatement.wsgi.application"
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'bunching_data',  # Your PostgreSQL database name
+        'NAME': 'query',  # Your PostgreSQL database name
         'USER': 'nishant',      # Your PostgreSQL username
         'PASSWORD': 'nishant',  # Your PostgreSQL password
         'HOST': 'localhost',   # Set to 'localhost' if PostgreSQL is on the same machine

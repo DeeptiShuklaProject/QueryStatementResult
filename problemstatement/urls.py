@@ -16,22 +16,45 @@ Including another URLconf
 """
 
 
+# from django.urls import path, include
+# from rest_framework.routers import DefaultRouter
+# from myapp.views import ProblemStatementViewSet, TagViewSet
+# from myapp.views import export_csv
+# from myapp.views import download_csv
+
+# # Define the router
+# router = DefaultRouter()
+# router.register(r'problem-statements', ProblemStatementViewSet)
+# router.register(r'tags', TagViewSet)
+
+# urlpatterns = [
+#     path('', include(router.urls)),
+#     path('export-csv/', export_csv, name='export_csv'),
+#     path('download-csv/', download_csv, name='download_csv'),
+# ]
+
 from django.urls import path, include
 from rest_framework.routers import DefaultRouter
-from myapp.views import ProblemStatementViewSet, TagViewSet
-from myapp.views import export_csv
-from myapp.views import download_csv
+from myapp.views import ProblemStatementViewSet, TagViewSet, MasterDataViewSet
+from myapp.views import export_csv, download_csv
+from myapp.views import MasterDataViewSet
 
 # Define the router
 router = DefaultRouter()
 router.register(r'problem-statements', ProblemStatementViewSet)
 router.register(r'tags', TagViewSet)
+router.register(r'master-data', MasterDataViewSet)  # Register MasterDataViewSet
 
 urlpatterns = [
+    # Include the registered routes
     path('', include(router.urls)),
+    path('api/', include(router.urls)),
+    
+    # Additional custom views
     path('export-csv/', export_csv, name='export_csv'),
     path('download-csv/', download_csv, name='download_csv'),
 ]
+
 
 
 

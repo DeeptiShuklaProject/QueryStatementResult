@@ -14,7 +14,7 @@ git clone https://github.com/DeeptiShuklaProject/QueryStatementResult.git
     pip install -r requirements.txt
 
 3. Run migrations:
-    
+    python manage.py makemigrations
     python manage.py migrate
  
 4. Start the Django development server:
@@ -32,19 +32,17 @@ This model represents a problem statement with the following fields:
 - **level**: Difficulty level of the problem.
 - **tags**: Foreign key relation to `Tag`.
 
+### API Roots
+{
+    "problem-statements": "http://127.0.0.1:8000/api/problem-statements/",
+    "tags": "http://127.0.0.1:8000/api/tags/",
+    "master-data": "http://127.0.0.1:8000/api/master-data/"
+}
 
 
 
 
-## CSV Export
 
-This project includes two views for exporting SQL queries in CSV format, providing different configurations for `Tag` data.
 
-### Exporting CSV with Tag IDs
-
-This view exports SQL queries with associated tag IDs.
-
-- **URL**: when you visit /download-csv/, the browser will automatically download the generated CSV file.
-- **Description**: Generates a CSV file with the following columns: `Statement`, `Query`, `Level`, `Tag IDs`.
   
 
